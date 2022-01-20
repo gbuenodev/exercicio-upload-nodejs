@@ -1,0 +1,23 @@
+{
+  "name": "exercicio-upload-nodejs",
+  "version": "1.0.0",
+  "description": "Exercício p/ criar rotas de upload de arquivos com Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbuenodev/exercicio-upload-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbuenodev/exercicio-upload-nodejs/issues"
+  },
+  "homepage": "https://github.com/gbuenodev/exercicio-upload-nodejs#readme",
+  "dependencies": {
+    "formidable": "^2.0.1",
+  }
+}
